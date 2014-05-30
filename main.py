@@ -2,8 +2,8 @@ import praw
 import re
 import time
 
-username = 'muchtipshibe'
-password = 'Parciau'
+username = ''
+password = ''
 
 r = praw.Reddit('you_get_doge')
 r.login(username,password)
